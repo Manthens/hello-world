@@ -1,4 +1,4 @@
-Hello Artifactory and Sonar
+Hello Artifactory and Sonar checking hooks
 added webhook
 docker image
 removed
